@@ -1,0 +1,9 @@
+{
+	"name": "resdtest2",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4fd3912f-b60e-47a1-b89b-5748b68b0cb2",
+		"tenantId": "098b8632-c2a3-4626-ab21-28cbe4baf2c6"
+	}
+}
